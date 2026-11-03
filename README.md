@@ -1,0 +1,2 @@
+# MirageRemoteVars
+the secret
